@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="entrar"> Entrar</string>
+    <string name="login"> Login </string>
+    <string name="senha"> Senha </string>
+    <string name="registro"> Registrar </string>
+    <string name="nomecamisa"> Camisa Bathory</string>
+    <string name="desccamisa"> “Bode”
+        Camiseta 100% algodão.
+Estampa: Frente/Costas.
+Cor: Preta</string>
+    <string name="btncomprar"> Comprar </string>
+    <string name="preco"> R$:65,00 </string>
+    <string name="comprar">Comprar</string>
+    <string name="dados"> Digite seus dados</string>
+    <string name="cpf"> CPF</string>
+    <string name="email"> E-mail </string>
+    <string name="cvc"> Código de segurança </string>
+    <string name="cartao"> Número do cartão </string>
+    <string name="frete"> Calcular o Frete </string>
+    <string name="frete1"> Frete </string>
+    <string name="confirmar"> Confirmar Compra</string>
+    <string name="confrimar2">Compra realizada com sucesso!</string>
+</resources>
